@@ -1,6 +1,6 @@
 # Biologically-inspired-image-classifier-based-on-saccadic-eye-movement---Demo
 
-Folder contains the results and code of all Original, Translated, and Cluttered Translated version of Kannada-MNIST data. Data is also uploaded in "data" folder.
+Folder contains the results and code of all Original, Translated, and Cluttered Translated version of Kannada-MNIST data. Data is uploaded in "data" folder.
 
 Video demo is available in:
 
